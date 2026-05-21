@@ -256,6 +256,7 @@ Responsible for:
 
 <img width="1358" height="767" alt="Screenshot 2026-05-20 at 8 05 31 PM" src="https://github.com/user-attachments/assets/7178a0ee-76cf-4e81-a956-5277a37e46dd" />
 
+---
 <img width="1462" height="813" alt="Screenshot 2026-05-20 at 8 05 51 PM" src="https://github.com/user-attachments/assets/c6e1f23b-47b1-4918-ac66-bd1f779ba361" />
 
 ---
